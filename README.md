@@ -4,7 +4,7 @@ This demo shows how the [Milkdown](https://milkdown.dev/) editor can work with S
 
 The original code was for Svelte 4 and I am in the process of porting it.
 
-This is **not** designed for wide use; rather, it is extracted code from the Svelte 4 app as needed to show a fellow dev. I simply chopped out the domain-specific stuff and made a demo to answer his request on github. (I hope this helps you develop a menu bar for Milkdown -- espcially if it is Svelte-friendly :-)
+This is **not** designed for wide use; rather, it is extracted code from the Svelte 4 app as needed to show a fellow dev. I simply chopped out the domain-specific stuff and made a demo [to answer his request on github](https://github.com/Milkdown/milkdown/issues/2221#issuecomment-3831173954). (I hope this helps you develop a menu bar for Milkdown -- espcially if it is Svelte-friendly :-)
 
 Also, I don't know Milkdown or Prosemirror in depth, so if you spot some redundancies or complexities in all those imports, or easier ways to do things, please let me know.
 
