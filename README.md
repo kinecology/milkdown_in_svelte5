@@ -8,7 +8,17 @@ This is **not** designed for wide use; rather, it is extracted code from the Sve
 
 Also, I don't know Milkdown or Prosemirror in depth, so if you spot some redundancies or complexities in all those imports, or easier ways to do things, please let me know.
 
-Below is readme that the svelte generator spits out:
+# Install
+
+```
+npm install
+
+npm run dev
+```
+
+# Sveltekit
+
+Below is hte readme that the svelte generator spits out:
 
 -------
 
